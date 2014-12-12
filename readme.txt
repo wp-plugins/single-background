@@ -30,12 +30,19 @@ Add different background color or responsive background image for every single p
 
 * [Please rate Single Background plugin](https://wordpress.org/support/view/plugin-reviews/single-background#postform)
 
+### Unlimited Web Hosting
+
+* [Unlimited web hosting for $0.50 Only and one-click install WordPress](j.mp/hosting_50cent)
+
+### Premium WordPress Themes And Plugins
+
+* [My premium themes and plugins on Creative Market.](http://j.mp/1AS73zL)
+* [My premium themes and plugins on Themeforest.](http://j.mp/Perso_themes)
+
 ### About
 
 * [The plugin designed and developed by Qassim Hassan.](http://qass.im)
 * [Qassim Hassan on Twitter.](https://twitter.com/Qassim_Dev)
-* [My premium themes and plugins on Creative Market.](http://j.mp/1AS73zL)
-* [My premium themes and plugins on Themeforest.](http://j.mp/Perso_themes)
 
 ### More Plugins
 
