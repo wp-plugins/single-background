@@ -12,7 +12,7 @@ Add different background color or responsive background image for every single p
 
 == Description ==
 
-### Single Background                                      
+### Single Background                            
 
 Add different background color or responsive background image for every single post or page.
 
