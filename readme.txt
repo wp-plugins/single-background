@@ -24,7 +24,8 @@ Add different background color or responsive background image for every single p
 
 ### Live Demo
 
-* [http://j.mp/single_bg_plugin](http://j.mp/single_bg_plugin)
+* [Live demo for background image](http://j.mp/single_bg_plugin_i)
+* [Live demo for background color](http://j.mp/sb_plugin_i)
 
 ### Rate The Plugin
 
