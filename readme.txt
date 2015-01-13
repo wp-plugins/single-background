@@ -31,6 +31,10 @@ Add different background color or responsive background image for every single p
 
 * [Please rate Single Background plugin](https://wordpress.org/support/view/plugin-reviews/single-background#postform)
 
+### January Big Bundle
+
+* [Pick up 64 products worth $1,112 for just $39](http://j.mp/jan_b_b)
+
 ### Beautiful WordPress Themes
 
 * [Collection of 87 themes for only $69](http://j.mp/beautiful_themes)
