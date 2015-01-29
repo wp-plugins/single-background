@@ -31,7 +31,7 @@ Add different background color or responsive background image for every single p
 
 * [Please rate Single Background plugin](https://wordpress.org/support/view/plugin-reviews/single-background#postform)
 
-### Download Zaman WordPress Blog Theme
+### Download Zaman WordPress Blog Theme 
 
 * [Responsive and Retina WordPress blog Theme with a lot of features](http://j.mp/zaman_theme)
 
