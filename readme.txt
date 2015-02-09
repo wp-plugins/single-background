@@ -24,8 +24,8 @@ Add different background color or responsive background image for every single p
 
 ### Live Demo
 
-* [Live demo for background image](http://j.mp/single_bg_plugin_i)
-* [Live demo for background color](http://j.mp/sb_plugin_i)
+* [Live demo for background image](http://qass.im/my-plugins/single-background-wordpress-plugin/)
+* [Live demo for background color](http://qass.im/my-plugins/?page_id=55)
 
 ### Rate The Plugin
 
