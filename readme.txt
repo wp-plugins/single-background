@@ -4,7 +4,7 @@ Donate link: http://j.mp/plugins_donation
 Tags: single background, background, single, different background, responsive background, responsive, page background, post background, analytics, image, images, shortcode, Post, plugin, posts, page, widget, admin, sidebar, google, twitter, comments
 Requires at least: 2.5
 Tested up to: 4.1.1
-Stable tag: 1.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -83,7 +83,10 @@ Add different background color or responsive background image for every single p
 
 == Changelog ==
 
-= 1.0 =
+= 1.0.1 =
+WP Time Support.
+
+= 1.0.0 =
 First version.
 
 == Upgrade Notice ==
