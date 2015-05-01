@@ -3,7 +3,7 @@
 Plugin Name: Single Background
 Plugin URI: http://wp-time.com/single-background-wordpress-plugin/
 Description: Add different background color or responsive background image for every single post or page.
-Version: 1.2
+Version: 1.3
 Author: Qassim Hassan
 Author URI: http://qass.im
 License: GPLv2 or later
