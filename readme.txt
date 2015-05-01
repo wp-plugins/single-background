@@ -81,7 +81,7 @@ Add different background color or responsive background image for every single p
 == Changelog ==
 
 = 1.3 =
-* [WP Time need your donation.](http://j.mp/Donate_To_WPTime)
+* Support WordPress latest version.
 
 = 1.2 =
 Fixing some problems.
