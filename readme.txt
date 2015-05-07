@@ -3,7 +3,7 @@ Contributors: Qassim.Dev
 Donate link: http://j.mp/WPTime_donations
 Tags: single background, background, single, different background, responsive background, responsive, page background, post background, analytics, image, images, shortcode, Post, plugin, posts, page, widget, admin, sidebar, google, twitter, comments
 Requires at least: 2.5
-Tested up to: 4.2.1
+Tested up to: 4.2.2
 Stable tag: 1.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
